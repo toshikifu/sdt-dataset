@@ -1,0 +1,34 @@
+/* 全体のスタイリング */
+body {
+  font-family: Arial, sans-serif; /* 使用するフォントの種類 */
+  line-height: 1.6;               /* 行間の設定 */
+  background-color: #f4f4f4;     /* 背景色 */
+  color: #333;                   /* テキストの色 */
+  margin: 0;                     /* 余白を0に設定 */
+  padding: 0;                    /* 内側の余白を0に設定 */
+}
+
+/* ヘッダーのスタイリング */
+header {
+  background-color: #50b3a2;     /* 背景色 */
+  color: white;                  /* テキストの色 */
+  text-align: center;            /* テキストを中央寄せ */
+  padding: 1em 0;                /* 上下に1emの内側の余白 */
+}
+
+/* メインコンテンツ部分のスタイリング */
+main {
+  padding: 20px;                 /* 全方向に20pxの内側の余白 */
+}
+
+section {
+  margin-bottom: 20px;          /* 下側に20pxの余白 */
+}
+
+/* フッターのスタイリング */
+footer {
+  background-color: #333;       /* 背景色 */
+  color: white;                  /* テキストの色 */
+  text-align: center;            /* テキストを中央寄せ */
+  padding: 1em 0;                /* 上下に1emの内側の余白 */
+}
