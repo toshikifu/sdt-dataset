@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+               background-color: #f1e2ce;}
+img {
+                              max-width: 100%;
+                              max-height: 100%;
+}
+#menu {
+                              height: 100%;
+                              width: 100%;
+                              text-align: center;
+
+}
+
+.xx{
+               display: flex;
+               justify-content: space-between;
+}
+p{
+               text-align: left;
+}
+.usi{
+              width: 100%;
+               text-align: center;
+
+}

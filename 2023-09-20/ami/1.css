@@ -1,0 +1,111 @@
+.top{
+    background-color:rgb(255, 255, 190);
+    height:80px;
+    padding-top: 10px;
+}
+
+.shadowbox {
+    width: 200px;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-color: rgb(189, 67, 255);
+    display: block;
+    position: relative;
+    display: grid;
+    place-items: center;
+    height: 2rem;
+    font-size: .24rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-repeat: repeat;
+    background-position: 0 0;
+    background-size: 1.13rem;
+    border: 0.05rem solid #cfb650;
+    border-radius: 0.2rem;
+    -webkit-transition: -webkit-filter .4s;
+    transition: -webkit-filter .4s;
+    transition: filter .4s;
+    transition: filter .4s, -webkit-filter .4s;
+}
+
+.halloween2023 img {
+    width: 100%;
+    height: auto;
+}
+
+.logo img{
+    padding-top: 10px;
+    text-align: center;
+    width:500px;
+    height:auto;
+}
+.logo{
+    text-align: center;
+
+}
+
+
+
+body{
+    margin:0px;
+}
+
+.shadowbox2{
+    width: 200px;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-color: violet;
+    display: block;
+    position: relative;
+    display: grid;
+    place-items: center;
+    height: 2rem;
+    font-size: .24rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-repeat: repeat;
+    background-position: 0 0;
+    background-size: 1.13rem;
+    border: 0.05rem solid #cfb650;
+    border-radius: 0.2rem;
+    -webkit-transition: -webkit-filter .4s;
+    transition: -webkit-filter .4s;
+    transition: filter .4s;
+    transition: filter .4s, -webkit-filter .4s;
+}
+
+
+.menu-wrapper{
+    display:flex;
+    justify-content: center;
+    gap:80px;
+}
+
+.event_title{
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+
+.intro_txt img{
+    margin:80px;
+    width:800px
+}
+
+.intro_txt{
+    text-align: center;
+}
+
+
+
+.gradient{
+    background:linear-gradient(orange,rgb(248, 220, 157));
+}
